@@ -6,7 +6,7 @@ A comprehensive collection of specialized AI agents designed to accelerate and e
 
 1. **Download this repository:**
    ```bash
-   git clone https://github.com/contains-studio/agents.git
+   git clone https://github.com/itziklerner-pag/claude-code-agents.git
    ```
 
 2. **Copy to your Claude Code agents directory:**
