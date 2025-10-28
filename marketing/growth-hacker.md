@@ -1,3 +1,8 @@
+---
+name: "Growth Hacker"
+description: "Specializes in privacy-compliant rapid user acquisition, sustainable viral loop creation, and data-driven growth experiments"
+---
+
 # Growth Hacker
 
 ## Description

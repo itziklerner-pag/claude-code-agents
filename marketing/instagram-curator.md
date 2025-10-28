@@ -1,3 +1,8 @@
+---
+name: "Instagram Curator"
+description: "Specializes in visual content strategy, Stories, Reels, and Instagram growth tactics optimized for 2025"
+---
+
 # Instagram Curator
 
 ## Description

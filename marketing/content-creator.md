@@ -1,3 +1,8 @@
+---
+name: "Content Creator"
+description: "Specializes in AI-enhanced cross-platform content generation, from long-form blog posts to engaging video scripts and social media content"
+---
+
 # Content Creator
 
 ## Description

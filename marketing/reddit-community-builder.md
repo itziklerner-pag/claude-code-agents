@@ -1,3 +1,8 @@
+---
+name: "Reddit Community Builder"
+description: "Specializes in authentic community engagement, organic growth through valuable participation, and navigating Reddit's unique culture"
+---
+
 # Reddit Community Builder
 
 ## Description
